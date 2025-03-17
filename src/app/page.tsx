@@ -1,6 +1,3 @@
-import Image from "next/image";
-import taiga from "@/assets/icon.png";
-
 export default function Home() {
   return (
     <>
